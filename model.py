@@ -1,4 +1,3 @@
-from typing import Any
 from keras.models import Sequential
 from keras.layers import Embedding, LSTM, Dense, Activation, Bidirectional
 from keras.callbacks import EarlyStopping
