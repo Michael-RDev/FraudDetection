@@ -34,7 +34,7 @@ ensuring a broad representation of fraud patterns and transaction types.
 
 4: Run the program
 
-```python main.py```
+```python evalmodel.py```
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for both commercial and non-commercial purposes.
